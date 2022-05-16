@@ -4,21 +4,21 @@
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
 1  |Introduction to ml | [Link](https://github.com/Abhishek97529/100-days-ML/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=1)
-2  |Ai vs Ml vs Dl | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=1v3_AQ26jZ0&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=2)
-3 | Types of machine learning| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=81ymPYEtFOw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=3)
-4	| Batch machine learning online vs offline| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=nPrhFxEuTYU&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=4)
-5	|Online machine learning|[Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=3oOipgCbLIk&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=5)
-6	|Instance based vs model based ml|[Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=ntAOq1ioTKo&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=6)
-7	|Challenges in ml|[Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=WGUNAJki2S4&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=7)
-8	|Applications of ml in real life|[Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=UZio8TcTMrI&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=8)
-9	|Ml life cycle|[Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=iDbhQGz_rEo&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=9)
-10	|Data engg vs data scientist |[Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=93rKZs0MkgU&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=10)
+2  |Ai vs Ml vs Dl | [Link](https://github.com/Abhishek97529/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=1v3_AQ26jZ0&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=2)
+3 | Types of machine learning| [Link](https://github.com/Abhishek97529/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=81ymPYEtFOw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=3)
+4	| Batch machine learning online vs offline| [Link](https://github.com/Abhishek97529/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=nPrhFxEuTYU&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=4)
+5	|Online machine learning|[Link](https://github.com/Abhishek97529/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=3oOipgCbLIk&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=5)
+6	|Instance based vs model based ml|[Link](https://github.com/Abhishek97529/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=ntAOq1ioTKo&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=6)
+7	|Challenges in ml|[Link](https://github.com/Abhishek97529/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=WGUNAJki2S4&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=7)
+8	|Applications of ml in real life|[Link](https://github.com/Abhishek97529/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=UZio8TcTMrI&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=8)
+9	|Ml life cycle|[Link](https://github.com/Abhishek97529/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=iDbhQGz_rEo&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=9)
+10	|Data engg vs data scientist |[Link](https://github.com/Abhishek97529/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=93rKZs0MkgU&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=10)
 	
 #### 2. Different ways to extract data
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 	
-1 | Tensors  | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=vVhD2EyS41Y&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=11)
-2|  Installation of anaconda | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=82P5N2m41jE&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=12)
+1 | Tensors  | [Link](https://github.com/Abhishek97529/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=vVhD2EyS41Y&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=11)
+2|  Installation of anaconda | [Link](https://github.com/Abhishek97529/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=82P5N2m41jE&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=12)
 3 | End to end ml toy dataset project| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=dr7z7a_8lQw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=13)
 4 | Farming the ml project| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=A9SezQlvakw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=14)
 5 | Working with csv files| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/02.%20Different%20ways%20to%20extract%20data) | [Link](https://www.youtube.com/watch?v=a_XrmKlaGTs&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=15)
