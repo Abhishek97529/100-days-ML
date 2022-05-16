@@ -3,7 +3,7 @@
 #### 1. Introduction 
 Serial Number | Topic Name |  Notes Link | Youtube Link
 -- |  -------  |-------------|-----------| 
-1  |Introduction to ml | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=1)
+1  |Introduction to ml | [Link](https://github.com/Abhishek97529/100-days-ML/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=1)
 2  |Ai vs Ml vs Dl | [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=1v3_AQ26jZ0&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=2)
 3 | Types of machine learning| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=81ymPYEtFOw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=3)
 4	| Batch machine learning online vs offline| [Link](https://github.com/ajay-nikumbh/ML_100/tree/main/01.%20Introduction) | [Link](https://www.youtube.com/watch?v=nPrhFxEuTYU&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=4)
